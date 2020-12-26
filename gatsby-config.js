@@ -2,9 +2,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Running page',
-    siteUrl: 'https://yihong.run',
-    description: 'Personal site and blog',
+    title: 'Lax Running Log',
+    siteUrl: 'https://running-lax.vercel.app',
+    description: 'My Running Log',
   },
   plugins: [
     'gatsby-transformer-json',
