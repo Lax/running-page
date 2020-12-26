@@ -45,10 +45,10 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'https://avatars0.githubusercontent.com/u/153937?s=460&u=5d7f06ac3e0baea45828743cbc4c9187b35f5818&v=4'; // Temp avatar
 export const NAVS = [
   { text: 'Blog', link: 'https://lax.github.io' },
-  { text: 'Running', link: 'https://lax.github.io/running_page' },
+  { text: 'Running', link: 'https://running-lax.vercel.app' },
 ];
 
 const nike = 'rgb(224,237,94)';
