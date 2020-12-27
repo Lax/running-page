@@ -1,6 +1,6 @@
 // const
 const MAPBOX_TOKEN =
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+  'pk.eyJ1IjoibGl1bGFudGFvIiwiYSI6ImNrajQ4amZkNjJmdHIycW0wY21pcjFoZjkifQ.j7ozT7IHLyhip_hEkba48A';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -45,10 +45,10 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'https://avatars0.githubusercontent.com/u/153937?s=460&u=5d7f06ac3e0baea45828743cbc4c9187b35f5818&v=4'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://github.com/yihong0618/running_page' },
-  { text: 'About', link: 'https://github.com/yihong0618/running_page' },
+  { text: 'Blog', link: 'https://lax.github.io' },
+  { text: 'Running', link: 'https://running-lax.vercel.app' },
 ];
 
 const nike = 'rgb(224,237,94)';
