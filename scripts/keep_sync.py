@@ -139,7 +139,6 @@ def get_all_keep_tracks(email, password, old_tracks_ids, with_download_gpx=False
     s, headers = login(s, email, password)
     runs = get_to_download_runs_ids(s, headers)
     runs = [run for run in runs if run.split("_")[1] not in old_tracks_ids]
-    runs = runs[:20]  ## First 20 runs
     print(f"{len(runs)} new keep runs to generate")
     tracks = []
     old_gpx_ids = os.listdir(GPX_FOLDER)
