@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Running page',
-    siteUrl: 'https://yihong.run',
+    siteUrl: 'http://running-lax.vercel.app',
     description: 'Personal site and blog',
   },
   plugins: [
