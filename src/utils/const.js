@@ -47,7 +47,7 @@ export {
 export const AVATAR =
   'https://avatars0.githubusercontent.com/u/153937?s=460&u=5d7f06ac3e0baea45828743cbc4c9187b35f5818&v=4'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://lax.github.io' },
+  { text: 'Twitter', link: 'https://twitter.com/liulantao' },
   { text: 'Running', link: 'https://running-lax.vercel.app' },
 ];
 
