@@ -36,8 +36,9 @@ jobs:
         uses: actions/checkout@v2
       - name: Checkout GPX_OUT
         uses: actions/checkout@v2
-        ref: GPX_OUT
-        path: GPX_OUT
+        with:
+          ref: GPX_OUT
+          path: GPX_OUT
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
