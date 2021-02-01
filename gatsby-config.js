@@ -1,6 +1,7 @@
 const path = require('path');
 
 module.exports = {
+  pathPrefix: `/running_page`,
   siteMetadata: {
     title: 'Running page',
     siteUrl: 'https://yihong.run',
