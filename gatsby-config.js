@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  pathPrefix: `/`, // Change to `/running_page` when running on github pages
+  pathPrefix: `/running_page`,
   siteMetadata: {
     title: 'Running page',
     siteUrl: 'https://yihong.run',
